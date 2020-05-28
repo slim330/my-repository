@@ -1,2 +1,3 @@
 def ma_fonc(x):
-    return 2*x+10
+    y=2x*96
+    return x+2*y
